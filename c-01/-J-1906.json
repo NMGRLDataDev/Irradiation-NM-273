@@ -1,0 +1,68 @@
+{
+    "aliquot": 1906, 
+    "analysis_type": "cocktail", 
+    "collection_version": "0.1:0.1", 
+    "comment": "single crystal", 
+    "commit": "8f6d9dca7472a91f5a7abaa4561d32e027c1e5dc", 
+    "detectors": {
+        "AX": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": null, 
+            "gain": null
+        }
+    }, 
+    "experiment_identifier": "Irradiation-NM-273", 
+    "identifier": "c-01-J", 
+    "increment": null, 
+    "irradiation": "NoIrradiation", 
+    "irradiation_level": "A", 
+    "irradiation_position": 4, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "jan", 
+    "material": "gas", 
+    "project": "REFERENCES", 
+    "queue_conditionals_name": "", 
+    "sample": "cocktail", 
+    "spec_sha": "da39a3ee5e6b4b0d3255bfef95601890afd80709", 
+    "timestamp": "2015-01-07T22:43:44", 
+    "username": "Zimmerer", 
+    "uuid": "5cd2dd52-69bf-4983-bfab-84b8ebc61ce5"
+}
